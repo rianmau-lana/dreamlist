@@ -2,7 +2,7 @@
 Aplikasi Pencatat Daftar Keinginan / Mimpi Menggunakan Lumen &amp; Vue.JS
 Nama : Rian Maulana Kelas : XII RPL 2
 
-##Penjelasan Aplikasi
+## Penjelasan Aplikasi
   * Halaman Read 
   Menampilkan semua data dreamlist yang tersimpan di database
   ![Home](home.png)
