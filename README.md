@@ -5,15 +5,19 @@ Nama : Rian Maulana Kelas : XII RPL 2
 ##Penjelasan Aplikasi
   * Halaman Read 
   Menampilkan semua data dreamlist yang tersimpan di database
+  ![Home](home.png)
   
   * Halaman Create
   Membuat dreamlist yang baru
-  ![Beranda](add.PNG)
+  ![Add](add.png)
   
   * Halaman Edit
   Mengubah dreamlist yang ada
+  ![Edit](edit.png)
+  
   * Delete
   Menghapus dreamlist yang ada
+  ![Homedelete](homedelete.png)
 
 ## Yang Harus Diinstall
   * XAMPP Versi Terbaru
