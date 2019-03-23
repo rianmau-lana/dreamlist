@@ -8,7 +8,7 @@ Nama : Rian Maulana Kelas : XII RPL 2
   
   * Halaman Create
   Membuat dreamlist yang baru
-  <img src="https://drive.google.com/open?id=18fPwbkKRDE3ZYIVF2fvNUqze1VER1PCR">
+  (add.PNG)
   
   * Halaman Edit
   Mengubah dreamlist yang ada
